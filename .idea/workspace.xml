@@ -29,7 +29,6 @@
       <change afterPath="$PROJECT_DIR$/../wpdev/wp-content/themes/theme1/assets/images/thumbs/4.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wpdev/wp-content/themes/theme1/assets/images/thumbs/5.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wpdev/wp-content/themes/theme1/assets/images/thumbs/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635875280129</updated>
       <workItem from="1635875285160" duration="1314000" />
-      <workItem from="1635934484193" duration="652000" />
+      <workItem from="1635934484193" duration="716000" />
     </task>
     <servers />
   </component>
@@ -188,6 +187,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1252" y="338" key="FileChooserDialogImpl" timestamp="1635935568558">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1252" y="338" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1635935568558" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1635934509964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
